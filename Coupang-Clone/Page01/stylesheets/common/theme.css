@@ -1,0 +1,10 @@
+/* Theme 스타일 작성 */
+:root{
+--color-red-500 : #e52330;
+--color-blue : #0096e4;
+--color-green-500 : #c7cd1d;
+--color-black : #181818;
+--color-black-20 : #000000 * 20%;
+--color-gray-500 : #c4c4c4;
+--color-white : #ffffff;
+}
